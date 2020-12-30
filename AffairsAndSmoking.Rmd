@@ -1,5 +1,5 @@
 ---
-title: "STA442 Assignment 1"
+title: "Affairs and Youth Smoking Report"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
